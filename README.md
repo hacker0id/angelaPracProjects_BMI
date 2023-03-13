@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the complete project of Body Mass Index Calculator (BMI) App.
 
 A few resources to get you started if this is your first Flutter project:
 
